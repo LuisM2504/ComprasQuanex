@@ -98,11 +98,7 @@ Tablas principales:
 - [2. Problema Identificado](#-problema-identificado)
 - [3. Solución Propuesta](#-solución-propuesta)
 - [4. Arquitectura del Sistema](#-arquitectura-del-sistema)
-- [5. Alcance del Proyecto](https://github.com/usuario/repositorio/wiki/Alcance)
-- [6. Requerimientos Funcionales y No Funcionales](https://github.com/usuario/repositorio/wiki/Requerimientos)
-- [7. Modelo de Datos](https://github.com/usuario/repositorio/wiki/Modelo-de-Datos)
-- [8. Guía de Instalación](https://github.com/usuario/repositorio/wiki/Instalacion)
-- [9. Manual de Usuario](https://github.com/usuario/repositorio/wiki/Manual-de-Usuario)
+
 
 
 ## Créditos
