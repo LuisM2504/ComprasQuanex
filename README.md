@@ -104,14 +104,6 @@ Tablas principales:
 - [8. Guía de Instalación](https://github.com/usuario/repositorio/wiki/Instalacion)
 - [9. Manual de Usuario](https://github.com/usuario/repositorio/wiki/Manual-de-Usuario)
 
-### **Integración Continua**
-- [Drone CI Pipeline](https://github.com/usuario/repositorio/wiki/CI)
-
-### **Documentación Externa (opcional)**
-- https://readthedocs.io/
-- https://scrumguides.org/
-
----
 
 ## Créditos
 Proyecto desarrollado como parte del **Proyecto Integrador – Quanex Ciudad Juárez**, Área de Compras.  
